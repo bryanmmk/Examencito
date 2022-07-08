@@ -1,0 +1,36 @@
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.deps.json
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.runtimeconfig.json
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.runtimeconfig.dev.json
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.dll
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.pdb
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.dll
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.pdb
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.genruntimeconfig.cache
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Adaptors.SQLServerDataAccess.dll
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Domain.dll
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Adaptors.SQLServerDataAccess.pdb
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Domain.pdb
+C:\Users\Bryan\source\repos\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.csproj.CopyComplete
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.deps.json
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.runtimeconfig.json
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.runtimeconfig.dev.json
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.dll
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.pdb
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Adaptors.SQLServerDataAccess.dll
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Domain.dll
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Adaptors.SQLServerDataAccess.pdb
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\bin\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Domain.pdb
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.AssemblyInfo.cs
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.csproj.CopyComplete
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.dll
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.pdb
+C:\Users\Engel Morales\Desktop\TODO\FarmaciaProjecto\FarmaciaProjecto.Core.Infraestructure\obj\Debug\netcoreapp3.1\FarmaciaProjecto.Core.Infraestructure.genruntimeconfig.cache

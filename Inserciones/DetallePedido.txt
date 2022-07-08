@@ -1,0 +1,13 @@
+INSERT INTO tb_DetallePedido(ID_DetallePedido,PrecioUnitario,ID_Pedido,Cantidad)
+VALUES('e73e00d1-2225-4e38-a071-4fb17579ac33',12,'1791BF84-B5D9-4EB7-9BC7-03E0CBB36EE9',3)
+
+INSERT INTO tb_DetallePedido(ID_DetallePedido,PrecioUnitario,ID_Pedido,Cantidad)
+VALUES('87cab7ac-d157-420b-b91e-31661db6633b',5,'0B34C7F3-7184-4093-B7CD-01392BA6126C',4)
+
+INSERT INTO tb_DetallePedido(ID_DetallePedido,PrecioUnitario,ID_Pedido,Cantidad)
+VALUES('28db63cc-7bd2-4316-9fdf-8decca14f9c7',5,'DA83F351-4DDF-4B98-B7DE-3297F97D0A84',2)
+
+INSERT INTO tb_DetallePedido(ID_DetallePedido,PrecioUnitario,ID_Pedido,Cantidad)
+VALUES('d2b5afa9-3019-4dc7-83c8-5abfd50644ee',12,'B41DFC0F-0125-47C6-913F-4BC6FC3CBF01',5)
+
+SELECT * FROM tb_DetallePedido

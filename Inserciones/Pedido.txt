@@ -1,0 +1,15 @@
+USE ProjectoFarmacia
+
+INSERT INTO tb_Pedido(ID_Pedido,Fecha,Estado,ID_Medicamento,ID_Usuario,Total)
+VALUES ('1791bf84-b5d9-4eb7-9bc7-03e0cbb36ee9',GETDATE(),'FEC6E6B4-171E-4706-8559-760DB1442B49',20.00,'img','e793eb60-ac3c-436a-9e93-5e2d24ad083d','3fc7cfbb-32b8-4587-9e4f-a242fbf9f2a6')
+
+INSERT INTO tb_Pedido(ID_Pedido,Fecha,Estado,Imagen,ID_Usuario,Total)
+VALUES ('b41dfc0f-0125-47c6-913f-4bc6fc3cbf01',GETDATE(),'FEC6E6B4-171E-4706-8559-760DB1442B49',10.00,'img','e793eb60-ac3c-436a-9e93-5e2d24ad083d','51a2fc21-2932-4a0a-8601-dc6492903ad6')
+
+INSERT INTO tb_Pedido(ID_Pedido,Fecha,Estado,Imagen,ID_Usuario,Total)
+VALUES ('0b34c7f3-7184-4093-b7cd-01392ba6126c',GETDATE(),'',,'img','e942fd39-c703-4695-ad17-67d805f0ae06','3fc7cfbb-32b8-4587-9e4f-a242fbf9f2a6')
+
+INSERT INTO tb_Pedido(ID_Pedido,Fecha,Estado,ID_Usuario,Total)
+VALUES ('da83f351-4ddf-4b98-b7de-3297f97d0a84',GETDATE(),'',1,'img','e942fd39-c703-4695-ad17-67d805f0ae06','51a2fc21-2932-4a0a-8601-dc6492903ad6')
+
+SELECT * FROM tb_Pedido

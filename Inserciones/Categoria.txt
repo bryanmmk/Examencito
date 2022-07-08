@@ -1,0 +1,15 @@
+USE ProjectoFarmacia
+
+INSERT INTO tb_Categoria(ID_Categoria,Nombre)
+VALUES ('e793eb60-ac3c-436a-9e93-5e2d24ad083d','Analgesicos')
+
+INSERT INTO tb_Categoria(ID_Categoria,Nombre)
+VALUES ('e942fd39-c703-4695-ad17-67d805f0ae06','Antialergicos')
+
+INSERT INTO tb_Categoria(ID_Categoria,Nombre)
+VALUES ('b02da416-864c-44d6-8e80-8ac64d6d1d49','AntiInflamatorios')
+
+INSERT INTO tb_Categoria(ID_Categoria,Nombre)
+VALUES ('591c4150-7c0e-4d93-98a2-1dc609a7c858','Antiacidos')
+
+SELECT * FROM tb_Categoria

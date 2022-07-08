@@ -1,0 +1,13 @@
+INSERT INTO tb_Administracion(ID,Usuario,contra)
+VALUES ('752ddb14-56d5-4481-9173-c127edb73248','Donald','Chompi')
+
+INSERT INTO tb_Administracion(ID,Usuario,contra)
+VALUES ('7035f2b4-363d-4cd9-bf94-0b4d50e0a79e','Javiera','Tepicaelculo')
+
+INSERT INTO tb_Administracion(ID,Usuario,contra)
+VALUES ('8b032672-0eea-4d82-97e1-f3464f35157b','Chonsi','Chonsi')
+
+INSERT INTO tb_Administracion(ID,Usuario,contra)
+VALUES ('2d202b2c-6beb-42f1-8c23-097b536c3fab','Ramon','Moncho')
+
+SELECT * FROM tb_Administracion

@@ -1,0 +1,15 @@
+USE ProjectoFarmacia
+
+INSERT INTO tb_Medicamentos(ID_Medicamento,Nombre,Descripcion,Precio,Imagen,ID_Categoria,ProveedorID_Proveedor)
+VALUES ('45cd5be1-9f4d-427c-ad70-db49b5a6f8fe','ibuprofeno','Analgesico',20.00,'img','e793eb60-ac3c-436a-9e93-5e2d24ad083d','3fc7cfbb-32b8-4587-9e4f-a242fbf9f2a6')
+
+INSERT INTO tb_Medicamentos(ID_Medicamento,Nombre,Descripcion,Precio,Imagen,ID_Categoria,ProveedorID_Proveedor)
+VALUES ('87c4d886-2492-4056-97d9-40d9a4a0f5dc','aspirina','Analgesico',10.00,'img','e793eb60-ac3c-436a-9e93-5e2d24ad083d','51a2fc21-2932-4a0a-8601-dc6492903ad6')
+
+INSERT INTO tb_Medicamentos(ID_Medicamento,Nombre,Descripcion,Precio,Imagen,ID_Categoria,ProveedorID_Proveedor)
+VALUES ('151aa289-26b9-4526-b75d-77bbb0a3613a','Delor-Antigripal','Antialergico',5.00,'img','e942fd39-c703-4695-ad17-67d805f0ae06','3fc7cfbb-32b8-4587-9e4f-a242fbf9f2a6')
+
+INSERT INTO tb_Medicamentos(ID_Medicamento,Nombre,Descripcion,Precio,Imagen,ID_Categoria,ProveedorID_Proveedor)
+VALUES ('fec6e6b4-171e-4706-8559-760db1442b49','Cetirizina','Antialergico',12.00,'img','e942fd39-c703-4695-ad17-67d805f0ae06','51a2fc21-2932-4a0a-8601-dc6492903ad6')
+
+SELECT * FROM tb_Medicamentos

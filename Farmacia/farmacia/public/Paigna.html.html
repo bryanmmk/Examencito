@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<Style>
+  .Font-size1 {
+    font-size: 20px;
+  }
+
+  .Font-size2 {
+    font-size: 20px;
+  }
+</Style>
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Farmacia ByE</title>
+  <!-- CDN de los íconos -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!-- CDN Materialize CSS  -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  <!-- Estilos propios -->
+  <link rel="stylesheet" href="styles/Styles.css">
+</head>
+
+<body>
+  <!-- AQUI EL CONTENIDO DEL SITIO -->
+  <div class="navbar-fixed">
+    <nav class="black">
+      <div class="nav-wrapper">
+        <div class="container">
+          <a href="#" class="brand-logo">FarmaciaByE</a>
+          <a href="#" data-activates="mobile-menu" class="button-collapse"><i class="material-icons">menu</i></a>
+          <ul class="right hide-on-med-and-down">
+            <li><a href="http://localhost:3000/">Administrador</a></li>
+            <li><a href="http://localhost:50651/">Reporte</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+  <ul class="side-nav" id="mobile-menu">
+    <li><a href="">Administrador</a></li>
+    <li><a href="http://localhost:50651/">Reporte</a></li>
+  </ul>
+  <!-- $(".button-collapse").sideNav(); -->
+  <div class="slider">
+    <ul class="slides">
+      <li>
+        <img src="banner-principal-como-reservar_mobile2 (1).jpg">
+        <div class="caption center-align">
+          </p>
+          <h5 class="light grey-text text-lighten-3">.</h5>
+        </div>
+      </li>
+      <li>
+        <img
+          src="pharmacy-background-medicine-objects-pills-on-wooden-table-top-view-template-for-web-banner-of-pharmacy-sale-or-advertising-vector.jpg">
+        <div class="caption left-align">
+          <h3 style="Color:black">Metas</h3>
+          <p style="Color:black">Brindar Eficiencia, calidad, compromiso, responsabilidad… Son los valores que esta farmacia siempre te va a garantizar.</p>
+          <p style="Color:black">Medicina al alcance de todos. Ese es nuestro propósito.</p>
+
+          <h5 class="light grey-text text-lighten-3">.</h5>
+        </div>
+      </li>
+      <li>
+        <img
+          src="doctor-que-usa-tableta-computadora-barra-busqueda-exhibicion-fondo-estantes-farmacia-farmacia-concepto-medico-linea_67340-467.webp">
+        <div class="caption right-align">
+          <h3 style="Color:white">Su salud es nuestra prioridad. Por eso contamos con medicinas en variedad.</h3>
+          <p class="Font-size2" style="Color:white ; text-decoration-line: black;">
+            Nuestros servicios son simples pero muy eficaces dado que sirven para
+            futuras contrataciones en otras empresas ya que nosotros nos encargamos
+            de apoyar a egresados universitarios para que hagan uso de sus habilidades
+          </p>
+          <h5 class="light grey-text text-lighten-3">.</h5>
+        </div>
+      </li>
+      <li>
+        <img
+          src="pancarta-médica-con-mostrador-de-farmacia-banner-médico-contador-e-ilustración-vectorial-farmacéutica-180486659.jpg">
+        <div class="caption center-align">
+          <h3 style="Color:black">¿Cuál es la vocación de la farmacia?</h3>
+          <P style="Color:black">
+          Somos una farmacia impulsada por el compromiso real de repartir salud y bienestar. No somos una farmacia más y
+          ya. Somos la farmacia con la que siempre puedes y podrás contar. Nuestra vocación es la salud y el bienestar.
+          Por eso la salud y el bienestar de todos siempre nos esmeramos por proporcionar.
+          </P>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <section>
+  <!-- 
+    $('.slider').slider();
+  -->
+
+  <!-- $(".button-collapse").sideNav(); -->
+  <!--  CDN jQuery -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+  <!-- CDN Materialize JS  -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+
+  <script>
+    $("document").ready(function () {
+      $('.slider').slider();
+    });
+  </script>
+</body>
+
+</html>

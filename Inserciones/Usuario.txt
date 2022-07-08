@@ -1,0 +1,11 @@
+INSERT INTO tb_Usuario(ID_Usuario,Nombre,Telefono,Direccion,Email,Contraseña)
+VALUES ('bffd4d21-e204-49a8-bef1-6ac467ed9eb7','Donald',98786543,'por el tiptop','Donald@gmail.com','Chompi')
+
+INSERT INTO tb_Usuario(ID_Usuario,Nombre,Telefono,Direccion,Email,Contraseña)
+VALUES ('88c02f95-5917-4d29-b6bf-587c59ce334a','Javiera',86749602,'por el Juigalpan','Javiera@gmail.com','Tepicaelculo')
+
+INSERT INTO tb_Usuario(ID_Usuario,Nombre,Telefono,Direccion,Email,Contraseña)
+VALUES ('ed0f8537-2b18-44b3-92b1-6f55733a1d99','Chonci',56452314,'por La casuelita','Chonci@gmail.com','Chonsisss')
+
+INSERT INTO tb_Usuario(ID_Usuario,Nombre,Telefono,Direccion,Email,Contraseña)
+VALUES ('fae5e0cc-1870-468e-b097-aad0a715408d','Ramon',87564321,'por La UNO','Ramon@gmail.com','Moncho')
